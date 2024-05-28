@@ -49,7 +49,7 @@ public class AuthController {
     public void getMethodName() {
        //emailService.send("edersonbastiani@gmail.com", "oi", "oi");
        //emailService.sendHTML1("edersonbastiani@gmail.com", "teste");
-       emailService.sendHtmlTemplate("edersonbastiani@gmail.com", "teste");
+       emailService.sendHtmlTemplate("email@gmail.com", "teste");
 
     }
     
